@@ -543,10 +543,6 @@ $ docker run \
     bitnami/postgresql:latest
 ```
 
-{% hint style="info" %}
-**README** для этого образа длиннее предела длины **DockerHub**, равного 25000, поэтому он был обрезан. Полный **README** можно найти по адресу [https://github.com/bitnami/containers/blob/main/bitnami/postgresql/README.md](https://github.com/bitnami/containers/blob/main/bitnami/postgresql/README.md).
-{% endhint %}
-
 2\. Изменяя файл **docker-compose.yml** в этом репозитории:
 
 ```yaml
@@ -568,3 +564,7 @@ services:
 Кроме того, вы также можете указать эту конфигурацию в своем [пользовательском файле](bitnami-postgresql.md#fail-konfiguracii) конфигурации.
 
 ## Файл конфигурации
+
+{% hint style="info" %}
+**README** для этого образа длиннее предела длины **DockerHub**, равного 25000, поэтому он был обрезан. Полный **README** можно найти по адресу [https://github.com/bitnami/containers/blob/main/bitnami/postgresql/README.md](https://github.com/bitnami/containers/blob/main/bitnami/postgresql/README.md).
+{% endhint %}
