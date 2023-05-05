@@ -6,6 +6,10 @@
 
 Где получить помощь: [Slack сообщества Docker, сбой сервера, Unix и Linux или StackOverflow](https://dockr.ly/comm-slack)
 
+{% hint style="info" %}
+Здесь более подробное описание Busybox: [https://busybox.net/about.html](https://busybox.net/about.html)
+{% endhint %}
+
 ## Поддерживаемые теги и соответствующие ссылки Dockerfile
 
 Не описано...
